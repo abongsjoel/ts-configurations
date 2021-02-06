@@ -20,7 +20,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/StarSheriff2/bubble-sort/issues).
+Feel free to check the [issues page](https://github.com/abongsjoel/ts-configurations/issues).
 
 ## Show your support
 
